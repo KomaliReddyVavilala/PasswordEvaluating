@@ -1,5 +1,4 @@
-# References & Research Notes
-
+##References
 ## 1. Common Password Attacks
 
 ### Brute Force Attack
